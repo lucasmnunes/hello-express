@@ -1,0 +1,30 @@
+{
+  "users": {
+    "data": [
+      {
+        "id": "1",
+        "name": "John Lennon",
+        "username": "john.lennon",
+        "ativo": false
+      },
+      {
+        "id": "2",
+        "name": "Paul McCartney",
+        "username": "paul.mccartney",
+        "ativo": true
+      },
+      {
+        "id": "3",
+        "name": "Ringo Starr",
+        "username": "ringo.starr",
+        "ativo": true
+      },
+      {
+        "id": "4",
+        "name": "George Harrison",
+        "username": "george.harrison",
+        "ativo": false
+      }
+    ]
+  }
+}
