@@ -9,6 +9,7 @@ module.exports = () => {
   app.use(bodyParser.json());
 
   require('../api/route/user-route')(app);
+  require('../api/route/hello-route')(app);
 
   return app;
 };
